@@ -13,6 +13,9 @@ awesome pointcloud processing algorithm
 ### 开源
 
 1. [Semantic.editor](https://github.com/MR-520DAI/semantic-segmentation-editor)
+2. https://github.com/jbehley/point_labeler
+3. https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor
+
 
 ### 商用
 
